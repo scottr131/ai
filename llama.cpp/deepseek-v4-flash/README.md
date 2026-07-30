@@ -1,0 +1,10 @@
+# DeepSeek V4 Flash
+Place model files in this folder.
+
+```
+0cecd47692e23e39de16598a4b40c4e1e53a3f2f56a965cc419fc136e9801494  DeepSeek-V4-Flash-UD-Q8_K_XL-00001-of-00005.gguf
+cba9ebcaa33c238c98ddd2881bae4b0766fa46e0329413bec7b36e691d43c335  DeepSeek-V4-Flash-UD-Q8_K_XL-00002-of-00005.gguf
+789aaf82287d21e77cb939fbf00da0452340d17768cff8494a6e575c14cb23bb  DeepSeek-V4-Flash-UD-Q8_K_XL-00003-of-00005.gguf
+93bf0d35912e0d337265d28b43914321146a1498133202c430adf61070a2a391  DeepSeek-V4-Flash-UD-Q8_K_XL-00004-of-00005.gguf
+60e6f48401428db11e9bba1f39886e2cdac40216270fcffa53bc9665b73bffae  DeepSeek-V4-Flash-UD-Q8_K_XL-00005-of-00005.gguf
+```
